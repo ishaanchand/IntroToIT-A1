@@ -1,0 +1,20 @@
+html{
+    background: url(https://wallpaperaccess.com/full/153704.jpg) no-repeat ;
+    background-size: cover;
+}
+
+body{
+    background-color: rgb(250, 250, 250);
+    width: 300px;
+    border: 15px solid rgb(255, 0, 221);
+    padding: 50px;
+    margin: 20px;
+
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    margin: -100px 0 -25px;
+}
+body{
+    color:rgb(97, 3, 190);
+}
