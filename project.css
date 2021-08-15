@@ -1,6 +1,6 @@
-html{
+body{
     width: 800px;
-    border: 50px solid aqua;
+    border: 50px solid gold;
     padding-top: 10px;
     padding-left: 1%;
     padding-right: 1%;
@@ -12,5 +12,5 @@ html{
     text-align: center;
     font-size: 18px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: brown;
+    background-color: rgb(0, 0, 0);
 }
